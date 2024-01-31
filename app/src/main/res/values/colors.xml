@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="semi_black">#2C2C2C</color>
+    <color name="semi_white">#D5D5D5</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_app">#0d2136</color>h
+    <color name="background_categories">#1C3655</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">anime_music</string>
+    <string name="song_name">Halo</string>
+    <string name="author">Yama x Botchibochimaru</string>
+    <string name="time">00:00</string>
+    <string name="lastUpdate">Últimas canciones</string>
+    <string name="category_name">My Hero academia</string>
+
+    <string name="one_piece">One Piece</string>
+    <string name="naruto">Naruto</string>
+    <string name="dragon_ball">Dragon Ball</string>
+    <string name="my_hero_academia">My Hero Academia</string>
+    <string name="hunter_x_hunter">Hunter x Hunter</string>
+    <string name="death_note">Death Note</string>
+    <string name="full_metal">Full Metal Alchemist</string>
+    <string name="attack_on_titan">Attack on Titan</string>
+    <string name="demon_slayer">Demon Slayer</string>
+    <string name="black_clover">Black Clover</string>
+    <string name="digimon">Digimon</string>
+</resources>
